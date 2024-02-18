@@ -1,0 +1,89 @@
+.photo{
+    border-radius: 50%;
+    height: 17rem;
+    width: 17rem;
+    
+}
+.imageblock{
+   box-sizing: border-box;
+    position: relative;
+    height: 400px;
+    width: 400px;
+    background-color: #162052;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.imageblock::after{
+    content: '';
+    position: absolute;
+    inset: 6px;
+    background-color: white;
+    border-radius: 50%;
+    z-index: 1;
+}
+.imageblock::before{
+    content: '';
+    position: absolute;
+    inset: -10px 160px;
+    background: linear-gradient(315deg, #00ccff, #d400d4);
+    transform: 0.5s;
+    transform: 0.5s;
+    animation: animate 4s linear infinite;
+}
+@keyframes animate{
+    0%{
+        transform:rotate(0deg)
+    }
+    100%{
+        transform:rotate(360deg)
+    }
+}
+.imageblock:hover::before{
+    inset: -20px 0px;
+}
+.imagealign{
+    display: flex;
+    justify-content: center;
+}
+.detail{
+    width:96% ;
+    margin-left: 2%;
+    background-color: rgb(202, 200, 200);
+    border-radius: 50px;
+    padding: 12px;
+    padding-left: 17px;
+
+}
+.content{
+    position: absolute;
+    inset: 30px;
+    border: 6px #162052 solid;
+    z-index: 3;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.content img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+
+}
+.achievements{
+    background-color: rgba(202, 200, 200, 0.914);
+    padding: 12px;
+    border-radius: 50px;
+    width: 50%;
+    position: relative;
+    left: 20px;
+}
+.achieve-container{
+    display: flex;
+    justify-content: center;
+}
+.data{
+    position: relative;
+    left: 60px;
+}

@@ -1,0 +1,46 @@
+
+.title{
+    width: 25%;
+    position: relative;
+    top: 10rem;
+    left: 73%;
+    color: white;
+    font-size: 35px;
+   
+    
+}
+
+#ti{
+    text-decoration: none;
+}
+
+body{
+    background-image: url('https://img.freepik.com/free-photo/white-paper-texture_1194-5998.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1708041600&semt=ais');
+
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.imag{
+    background-image: url('https://shihabphotography.com/wp-content/uploads/2013/02/SHIHAB-bio.jpg');
+    height: 36rem;
+    width: 96%;
+    margin-left: 2% ;
+    border-radius: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.arrow{
+    font-size: 5rem;
+    position: relative;
+    color: silver;
+    left: 80%;
+}
+.arrow:hover{
+    color: white;
+}
