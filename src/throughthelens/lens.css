@@ -1,0 +1,58 @@
+.heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.big{
+    margin: 0%;
+    padding: 0%;
+}
+.heading h3{
+    margin-top: 10px;
+    font-style: italic;
+}
+.container {
+    display: flex;
+    flex-direction: row;  
+}
+.spau{
+    color: rgb(136, 135, 135)
+}
+.container img{
+    margin-right: 25px;
+    
+}
+
+.inner1{
+   display: flex;
+   flex-direction: column; 
+   width: 33.3%;
+   
+}
+.inner1 img{
+    margin-bottom: 25px;
+    
+}
+.inner2{
+    display: flex;
+    flex-direction: column;
+    width: 33.3%;
+}
+.inner2 img{
+    margin-bottom: 25px;
+}
+.inner1 img{
+     display: flex;
+     justify-content: space-around;
+    
+    }
+.inner3{
+
+    display: flex;
+    flex-direction: column; 
+    width:33.3% ;
+}
+.inner3 img{
+    margin-bottom: 25px;
+}

@@ -8,7 +8,7 @@ function About() {
         <div className='imagealign'>
              <div className='imageblock'>
                 <div className='content'>
-                     <img src='https://media.licdn.com/dms/image/C5103AQE5Edn5CPIdBA/profile-displayphoto-shrink_800_800/0/1578837934935?e=2147483647&v=beta&t=Td3U5otERY8uzj3G_kQuj_ZvbQLj2YTRmkgsCLp7Afc' alt='image unable to load'></img>
+                     <img src='.\images\1578837934415.jpg'></img>
                 </div>
               </div>
         </div>
