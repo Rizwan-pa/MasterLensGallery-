@@ -294,7 +294,6 @@ function Contact() {
                 <td><label>Comments:</label></td>
                 <td><textarea placeholder='Comment' rows={5} cols={20} className='comment' name='comments' required='true'></textarea></td>
             </tr>
-            <br></br>
             <tr>
                 <td></td>
                 <td><button className='submitbut' style={{color:'white'}} name='submit'>Submit</button></td>
