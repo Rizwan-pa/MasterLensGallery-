@@ -14,7 +14,10 @@
 }
 .container {
     display: flex;
+    justify-content: center;
     flex-direction: row;  
+    position: relative;
+    left:11px
 }
 .spau{
     color: rgb(136, 135, 135)

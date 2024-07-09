@@ -8,7 +8,7 @@ function Lens() {
              <div className='heading'>
                 <h3>Through <span className='spau'>The Lens</span></h3>
              </div>
-         <div className='container'>
+         <div className='container' >
              <div className='inner1'>
                 <img src='.\images\70510007.JPG'></img>
                 <img src='.\images\IMG_1051.JPG'></img>
