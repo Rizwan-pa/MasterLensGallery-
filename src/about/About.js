@@ -51,8 +51,8 @@ function About() {
            </div>
        </div>
        </div>
-       <p align={"center"}>Shihab Mohammad</p> 
-       <p align={"center"}>shihabmohammed@gmail.com</p>   
+       <p align={"center"}>Shihab</p> 
+       <p align={"center"}>Shihabphotographer@gmail.com</p>   
        <p align={'center'}>© shihab photography 2017 All Rights Reserved.</p>
     </div>
   )
