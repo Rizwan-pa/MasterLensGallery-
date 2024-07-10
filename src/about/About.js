@@ -8,7 +8,7 @@ function About() {
         <div className='imagealign'>
              <div className='imageblock'>
                 <div className='content'>
-                     <img src='.\images\1578837934415.jpg' alt='error'></img>
+                     <img src='.\images\u1578837934415.jpg' alt='error'></img>
                 </div>
               </div>
         </div>

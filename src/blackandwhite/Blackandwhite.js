@@ -9,9 +9,9 @@ function Blackandwhite() {
              </div>
          <div className='container'>
              <div className='inner1'>
-                <img src='.\images\1-MAY-2016bw.JPG' alt='error'></img>
-                <img src='.\images\25-MAY-2016.JPG' alt='error'></img>
-                <img src='.\images\30-APRIL-2016.JPG' alt='error'></img>
+                <img src='.\images\u0001-MAY-2016bw.JPG' alt='error'></img>
+                <img src='.\images\u002-MAY-2016.JPG' alt='error'></img>
+                <img src='.\images\u0003-APRIL-2016.JPG' alt='error'></img>
                 <img src='.\images\AIDS B�W.JPG' alt='error'></img>
                 <img src='.\images\Chattom.JPG' alt='error'></img>
                 <img src='.\images\SHIH2622BWjpgA.JPG' alt='error'></img>

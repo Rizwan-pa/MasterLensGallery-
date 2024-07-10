@@ -1,6 +1,6 @@
 import React from 'react'
 import './lens.css'
-import Header from '../firstpage/Header'
+
 function Lens() {
   return (
     <div className='big'>
@@ -10,10 +10,10 @@ function Lens() {
              </div>
          <div className='container' >
              <div className='inner1'>
-                <img alt='error' src='.\images\70510007.JPG'></img>
+                <img alt='error' src='.\images\u70510007.JPG'></img>
                 <img src='.\images\IMG_1051.JPG' alt='error'></img>
                 <img src='.\images\IMG_1173.JPG' alt='error'></img>
-                <img src='.\images\69980008 (2).JPG' alt='error'></img>
+                <img src='.\images\u69980008 (2).JPG' alt='error'></img>
                 
                 <img src='.\images\SHIHAB01.JPG' alt='error'></img>
              </div>
@@ -34,7 +34,7 @@ function Lens() {
                 <img src='.\images\ZAYED MOSQUE31.JPG' alt='error'></img>
                 <img src='.\images\ZAYED MOSQUE01.JPG' alt='error'></img>
                 
-                <img src='.\images\70000021.JPG' alt='error'></img>
+                <img src='.\images\u70000021.JPG' alt='error'></img>
              </div>
         </div>
         
