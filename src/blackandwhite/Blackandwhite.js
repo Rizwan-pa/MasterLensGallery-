@@ -9,31 +9,31 @@ function Blackandwhite() {
              </div>
          <div className='container'>
              <div className='inner1'>
-                <img src='.\images\1-MAY-2016bw.JPG'></img>
-                <img src='.\images\25-MAY-2016.JPG'></img>
-                <img src='.\images\30-APRIL-2016.JPG'></img>
-                <img src='.\images\AIDS B�W.JPG'></img>
-                <img src='.\images\Chattom.JPG'></img>
-                <img src='.\images\SHIH2622BWjpgA.JPG'></img>
+                <img src='.\images\1-MAY-2016bw.JPG' alt='error'></img>
+                <img src='.\images\25-MAY-2016.JPG' alt='error'></img>
+                <img src='.\images\30-APRIL-2016.JPG' alt='error'></img>
+                <img src='.\images\AIDS B�W.JPG' alt='error'></img>
+                <img src='.\images\Chattom.JPG' alt='error'></img>
+                <img src='.\images\SHIH2622BWjpgA.JPG' alt='error'></img>
              </div>
              <div className='inner2'>
-                <img src='.\images\Hungry.JPG'></img>
-                <img src='.\images\IMG_3517.JPG'></img>
-                <img src='.\images\IMG_4294.JPG'></img>
-                <img src='.\images\LISALI DAY.JPG'></img>
-                <img src='.\images\Pf100517-SK-BRIDGE01.JPG'></img>
-                <img src='.\images\Police Mazha.JPG'></img>
+                <img src='.\images\Hungry.JPG' alt='error'></img>
+                <img src='.\images\IMG_3517.JPG' alt='error'></img>
+                <img src='.\images\IMG_4294.JPG' alt='error'></img>
+                <img src='.\images\LISALI DAY.JPG' alt='error'></img>
+                <img src='.\images\Pf100517-SK-BRIDGE01.JPG' alt='error'></img>
+                <img src='.\images\Police Mazha.JPG' alt='error'></img>
                
              </div>
              <div className='inner3'>
-                <img src='.\images\RAHMAN.JPG'></img>
+                <img src='.\images\RAHMAN.JPG' alt='error'></img>
                 
-                <img src='.\images\RAKDEC2017.JPG'></img>
-                <img src='.\images\REVATHY MIRROR bw.JPG'></img>
-                <img src='.\images\SHB_1280.JPG'></img>
-                <img src='.\images\SHBX0598BWLR.JPG'></img>
+                <img src='.\images\RAKDEC2017.JPG' alt='error'></img>
+                <img src='.\images\REVATHY MIRROR bw.JPG' alt='error'></img>
+                <img src='.\images\SHB_1280.JPG' alt='error'></img>
+                <img src='.\images\SHBX0598BWLR.JPG' alt='error'></img>
                 
-                <img src='.\images\SHBX8087B&W.JPG'></img>
+                <img src='.\images\SHBX8087B&W.JPG' alt='error'></img>
              </div>
         </div>
         
